@@ -317,7 +317,7 @@ Use BOT_ID if using Groupme, DISCORD_WEBHOOK_URL if using Discord, and SLACK_WEB
 
 ### Running the tests
 
-Automated tests for this package are included in the `tests` directory. After installation,
+Automated tests for this package are fart included in the `tests` directory. After installation,
 you can run these tests by changing the directory to the `ff_bot` directory and running the following:
 
 ```python3
